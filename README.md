@@ -1,24 +1,14 @@
 INGREDIENTS:-
 Milk,
-
  Butter,
- 
  Salt,
- 
  Eggs,
- 
- Flour,
- 
- Sugar,
- 
+ Flour, 
+ Sugar, 
  Powdered Sugar,
- 
- Baking Soda,
- 
- Baking Powder,
- 
- Vanilla Extract,
- 
+ Baking Soda, 
+ Baking Powder, 
+ Vanilla Extract, 
  Sour Cream,
 
 PROCEDURE:-
